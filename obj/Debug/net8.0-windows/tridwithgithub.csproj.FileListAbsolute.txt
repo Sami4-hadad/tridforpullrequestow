@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\tridwithgithub\bin\Debug\net8.0-windows\tridwithgithub.exe
+C:\Users\asus\source\repos\tridwithgithub\bin\Debug\net8.0-windows\tridwithgithub.deps.json
+C:\Users\asus\source\repos\tridwithgithub\bin\Debug\net8.0-windows\tridwithgithub.runtimeconfig.json
+C:\Users\asus\source\repos\tridwithgithub\bin\Debug\net8.0-windows\tridwithgithub.dll
+C:\Users\asus\source\repos\tridwithgithub\bin\Debug\net8.0-windows\tridwithgithub.pdb
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\tridwithgithub.Form1.resources
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\tridwithgithub.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\tridwithgithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\tridwithgithub.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\tridwithgithub.AssemblyInfo.cs
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\tridwithgithub.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\tridwithgithub.dll
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\refint\tridwithgithub.dll
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\tridwithgithub.pdb
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\tridwithgithub.genruntimeconfig.cache
+C:\Users\asus\source\repos\tridwithgithub\obj\Debug\net8.0-windows\ref\tridwithgithub.dll
